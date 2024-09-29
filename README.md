@@ -7,4 +7,5 @@
 - mạch cầu H L298
 - Module BLE HC06
 
-  ![ảnh](z5879062561190_d25c72be6adeaadcbd1e59c1ca98772b.jpg)(z5879062567276_44e296663c998d4ffd37e60f9eba59d5.jpg)
+  ![ảnh](z5879062561190_d25c72be6adeaadcbd1e59c1ca98772b.jpg)
+  ![ảnh](z5879062567276_44e296663c998d4ffd37e60f9eba59d5.jpg)
