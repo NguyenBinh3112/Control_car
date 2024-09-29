@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"xe_dieu_khien\startup_stm32f103xb.o"
+"xe_dieu_khien\main.o"
+"xe_dieu_khien\stm32f1xx_it.o"
+"xe_dieu_khien\stm32f1xx_hal_msp.o"
+"xe_dieu_khien\stm32f1xx_hal_gpio_ex.o"
+"xe_dieu_khien\stm32f1xx_hal_tim.o"
+"xe_dieu_khien\stm32f1xx_hal_tim_ex.o"
+"xe_dieu_khien\stm32f1xx_hal.o"
+"xe_dieu_khien\stm32f1xx_hal_rcc.o"
+"xe_dieu_khien\stm32f1xx_hal_rcc_ex.o"
+"xe_dieu_khien\stm32f1xx_hal_gpio.o"
+"xe_dieu_khien\stm32f1xx_hal_dma.o"
+"xe_dieu_khien\stm32f1xx_hal_cortex.o"
+"xe_dieu_khien\stm32f1xx_hal_pwr.o"
+"xe_dieu_khien\stm32f1xx_hal_flash.o"
+"xe_dieu_khien\stm32f1xx_hal_flash_ex.o"
+"xe_dieu_khien\stm32f1xx_hal_exti.o"
+"xe_dieu_khien\stm32f1xx_hal_uart.o"
+"xe_dieu_khien\system_stm32f1xx.o"
+"xe_dieu_khien\motor_driver.o"
+"xe_dieu_khien\pwm.o"
+"xe_dieu_khien\car.o"
+--strict --scatter "Xe_dieu_khien\Xe_dieu_khien.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Xe_dieu_khien.map" -o Xe_dieu_khien\Xe_dieu_khien.axf
