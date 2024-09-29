@@ -6,4 +6,5 @@
 - pin 18650
 - mạch cầu H L298
 - Module BLE HC06
-  (z5879062561190_d25c72be6adeaadcbd1e59c1ca98772b.jpg)
+
+  !  [ảnh] (z5879062561190_d25c72be6adeaadcbd1e59c1ca98772b.jpg)
