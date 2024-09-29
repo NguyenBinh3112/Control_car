@@ -1,6 +1,6 @@
 Giới thiệu
 - Dự án xe điều khiển qua bluetooth được lập trình trên chip stm32 sử dụng phần mềm stm32cube_mx và KeilC
-Module sử dụ
+Module sử dụng
 - stm32f103C8
 - động cơ vàng
 - pin 18650
